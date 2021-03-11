@@ -1,0 +1,29 @@
+#h1{
+text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+#p1{
+    color: pink;
+    font-size:35px;
+}
+#pic{
+    width: 605px;
+}
+#h1r{
+    background-color: aqua;
+    height:25px;
+}
+.image-section{
+    display:flex;
+}
+.image-section2{
+    display:flex;}
+.image-section3{
+    display:flex;}
+#h2r{
+    background-color: yellow;
+    height:10px;
